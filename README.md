@@ -22,7 +22,3 @@ Open [http://127.0.0.1:5173](http://127.0.0.1:5173) to view it in the browser.
 - DaisyUI: https://daisyui.com/
 - Tailwind CSS: https://tailwindcss.com/docs/guides/vite
 - Firebase Docs: https://firebase.google.com/docs
-
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/sNDHYBeOQp4)
