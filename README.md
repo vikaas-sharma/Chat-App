@@ -1,7 +1,7 @@
 This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
 <ins>App Preview</ins>
-![Project Preview](src/instachat.png)
+![Project Preview](src/vikas.png)
 
 ## Available Scripts
 
